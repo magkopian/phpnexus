@@ -12,6 +12,14 @@
 
  * Geany is a text editor using the GTK2 toolkit with basic features of an integrated development environment. It was developed to provide a small and fast IDE, which has only a few dependencies from other packages. It supports many filetypes and has some nice features.<F5>
 
+[NetBeans](https://netbeans.org/)
+
+ * NetBeans IDE lets you quickly and easily develop Java desktop, mobile, and web applications, as well as HTML5 applications with HTML, JavaScript, and CSS. The IDE also provides a great set of tools for PHP and C/C++ developers. It is free and open source and has a large community of users and developers around the world. 
+
+[PHPStorm](http://www.jetbrains.com/phpstorm/) <span class="label label-danger"><small>Non-free</small></span>
+
+ * JetBrains PhpStorm is a cross-platform IDE for PHP built on JetBrains' IntelliJ IDEA platform. PhpStorm provides an editor for PHP, HTML and JavaScript with on-the-fly code analysis, error prevention and automated refactorings for PHP and JavaScript code.
+
 [Sublime Text](http://www.sublimetext.com/) <span class="label label-danger"><small>Non-free</small></span>
 
  * Sublime Text is a sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.

@@ -15,5 +15,5 @@ TABLE_OF_CONTENTS = Table of Contents
 html:
 	pandoc -s --highlight-style $(HTML_CODE_STYLE) -S -w html5 --toc -c $(HTML_BOOTSTRAP_CSS) -c $(HTML_CSS) $(TOP_FILE) README.md `ls -d -1 sections/**` -o $(FINAL_OUTPUT).html
 	grep -rl "##DATEFIELD##" $(FINAL_OUTPUT).html | xargs sed -i "s/##DATEFIELD##/<span style='font-size:small;'>$(CREATED_STR) $(CREATE_DATE). $(LAST_UPDATED_STR) `date '$(DATE_FORMAT)'`<\/span>/"
-
+	grep -rl "<title>" | xargs sed -i "s#<title>PHPNexus</title>#<title>PHPNexus</title>#"
 
