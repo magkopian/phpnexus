@@ -10,7 +10,7 @@
 
 [Geany](http://www.geany.org/)
 
- * Geany is a text editor using the GTK2 toolkit with basic features of an integrated development environment. It was developed to provide a small and fast IDE, which has only a few dependencies from other packages. It supports many filetypes and has some nice features.
+ * Geany is a text editor using the GTK2 toolkit with basic features of an integrated development environment. It was developed to provide a small and fast IDE, which has only a few dependencies from other packages. It supports many filetypes and has some nice features.<F5>
 
 [Sublime Text](http://www.sublimetext.com/) <span class="label label-danger"><small>Non-free</small></span>
 
