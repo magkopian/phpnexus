@@ -12,6 +12,10 @@
 
  * Securing PHP wants to help take the guesswork out of protecting your PHP applications and put you on the right path towards a more secure future. It will give you the terms, the technology and the best practices to help keep your apps (and users) protected. Security doesn't have to be hard, but it can be overwhelming.
 
+[Survive The Deep End: PHP Security](http://phpsecurity.readthedocs.org/en/latest/index.html)
+
+ * A free PHP security book.
+
 [websec.io](http://websec.io/)
 
  * websec.io is dedicated to educating developers about security with topics relating to general security fundamentals, emerging technologies and PHP-specific information.
