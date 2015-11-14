@@ -21,7 +21,7 @@ Add sections to the _sections_ directory or edit existing sections. Make will au
 
 Try to keep the different hyperlinks within each section file in alphabetical order.
 
-If you wish you can leave your name (website or other relevant information) in the _CONTRIBUTERS.md_ file.
+If you wish you can leave your name (website or other relevant information) in the _CREDITS.md_ file.
 
 ## Spread the Word! ##
 
