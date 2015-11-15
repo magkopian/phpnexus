@@ -13,13 +13,9 @@
  * The Eclipse PHP Development Tools project (PDT) is the #1 open source PHP Integrated Development Environment (IDE). Eclipse PDT provides an entry level IDE for with the basic code editing capabilities you need to get started with PHP development. Eclipse PDT provides:
 
     * Basic PHP Editing with syntax highlighting and coloring
-    
     * PHP code completion, code templates, auto-formatting
-    
     * Basic JavaScript Editing with syntax highlighting and coloring 
-    
     * Basic HTML Editing with syntax highlighting and coloring 
-    
     * Local and Remote Debugging support for XDebug and the Zend Debugger
 
 [Geany](http://www.geany.org/)
