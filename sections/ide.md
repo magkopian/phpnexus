@@ -8,6 +8,20 @@
 
  * A hackable text editor for the 21st Century with great PHP support.
 
+[Eclipse PDT](https://eclipse.org/pdt/)
+
+* The Eclipse PHP Development Tools project (PDT) is the #1 open source PHP Integrated Development Environment (IDE). Eclipse PDT provides an entry level IDE for with the basic code editing capabilities you need to get started with PHP development. Eclipse PDT provides:
+
+    * Basic PHP Editing with syntax highlighting and coloring
+    
+    * PHP code completion, code templates, auto-formatting
+    
+    * Basic JavaScript Editing with syntax highlighting and coloring 
+    
+    * Basic HTML Editing with syntax highlighting and coloring 
+    
+    * Local and Remote Debugging support for XDebug and the Zend Debugger
+
 [Geany](http://www.geany.org/)
 
  * Geany is a text editor using the GTK2 toolkit with basic features of an integrated development environment. It was developed to provide a small and fast IDE, which has only a few dependencies from other packages. It supports many filetypes and has some nice features.<F5>
