@@ -10,7 +10,7 @@
 
 [Eclipse PDT](https://eclipse.org/pdt/)
 
-* The Eclipse PHP Development Tools project (PDT) is the #1 open source PHP Integrated Development Environment (IDE). Eclipse PDT provides an entry level IDE for with the basic code editing capabilities you need to get started with PHP development. Eclipse PDT provides:
+ * The Eclipse PHP Development Tools project (PDT) is the #1 open source PHP Integrated Development Environment (IDE). Eclipse PDT provides an entry level IDE for with the basic code editing capabilities you need to get started with PHP development. Eclipse PDT provides:
 
     * Basic PHP Editing with syntax highlighting and coloring
     
