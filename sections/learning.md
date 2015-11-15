@@ -8,6 +8,10 @@
 
  * Codecademy is an education company.
 
+[Codecourse](https://www.youtube.com/user/phpacademy)
+
+ * Formerly known as PHPacademy, Codecourse is one of the most popular PHP tutorial channels on YouTube.
+
 [PHP Internals Book](http://www.phpinternalsbook.com/)
 
  * This book is a collaborative effort between several PHP developers to better document and describe how PHP works internally. This book is primarily targeted at developers who have experience in the C programming language. However, where-ever possible we will attempt to distill the information and summarize it so that developers who don’t know C well, will still be able to understand the content.
