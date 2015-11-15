@@ -58,6 +58,22 @@
 
  * Vim is an advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set. VIM can be extended with a couple of different extensions that makes it a very capable and productive PHP IDE.
 
+    * [Vundle](https://github.com/VundleVim/Vundle.vim/) - Easy plug-in management.
+    * [Vim-Airline](https://github.com/bling/vim-airline) - Lean and mean status/tabline.
+    * [Vim-Snippets](https://github.com/honza/vim-snippets) - Snippets files for various programming languages.
+    * [UltiSnips](https://github.com/SirVer/ultisnips) - The ultimate snippet solution for Vim.
+    * [snipMate](https://github.com/garbas/vim-snipmate) - snipMate.vim aims to be a concise vim script that implements some of TextMate's snippets features in Vim.
+    * [AutoTag](https://github.com/vim-scripts/AutoTag) - Updates entries in a tags file automatically when saving.
+    * [Aldmeris](https://github.com/veloce/vim-aldmeris) - A vim colorscheme based on oblivion for gedit.
+    * [Zenburn](https://github.com/jnurmine/Zenburn) - Zenburn is a low-contrast color scheme for Vim.
+    * [CodeSchool](https://github.com/antlypls/vim-colors-codeschool) - CodeSchool color theme for vim.
+    * [pw](https://github.com/vim-scripts/pw) - Dark and lucid inspired theme.
+    * [SpaceDust](https://github.com/mikker/Spacedust-theme.vim) - A GVim version of the Spacedust theme.
+    * [tcomment](https://github.com/tomtom/tcomment_vim) - Auto comment/un-comment code sections.
+    * [Syntastic](https://github.com/scrooloose/syntastic) - Syntax checking for 'php', 'phpcs', 'phplint', 'phpmd', and many more.
+    * [NERDtree](https://github.com/scrooloose/nerdtree) - A tree explorer plugin for vim.
+    * [vim-bufkill](https://github.com/qpkorr/vim-bufkill) - Unload, delete or wipe a buffer without closing the window or split.
+
 [Zend Studio](http://www.zend.com/en/products/studio) <span class="label label-danger"><small>Non-free</small></span>
 
  * The next-generation PHP IDE designed to create high quality PHP apps while boosting developers’ productivity. It is the only PHP IDE that combines mobile development with PHP and includes a sample mobile application with source code.
