@@ -8,6 +8,14 @@
 
  * A hackable text editor for the 21st Century with great PHP support.
 
+[Bluefish](http://bluefish.openoffice.nl/index.html)
+
+ * Bluefish is a powerful editor targeted towards programmers and webdevelopers, with many options to write websites, scripts and programming code. Bluefish supports many programming and markup languages. Bluefish is a multi-platform application that runs on most desktop operating systems including Linux, FreeBSD, MacOS-X, Windows, OpenBSD and Solaris.
+
+[CodeLite](http://www.codelite.org/)
+
+ * CodeLite is an open source, free, cross platform IDE specialized in C, C++, PHP and JavaScript (mainly for backend developers using Node.js) programming languages which runs best on all major Platforms (OSX, Windows and Linux).
+
 [Eclipse PDT](https://eclipse.org/pdt/)
 
  * The Eclipse PHP Development Tools project (PDT) is the #1 open source PHP Integrated Development Environment (IDE). Eclipse PDT provides an entry level IDE for with the basic code editing capabilities you need to get started with PHP development. Eclipse PDT provides:
@@ -21,6 +29,18 @@
 [Geany](http://www.geany.org/)
 
  * Geany is a text editor using the GTK2 toolkit with basic features of an integrated development environment. It was developed to provide a small and fast IDE, which has only a few dependencies from other packages. It supports many filetypes and has some nice features.<F5>
+
+[KDevelop](https://www.kdevelop.org/)
+
+ * KDevelop is a free, open source IDE (Integrated Development Environment) for Linux, Solaris, FreeBSD, Mac OS X and other Unix flavors. It is a feature-full, plugin extensible IDE for C/C++ and other programming languages. It is based on KDevPlatform, and the KDE and Qt libraries and is under development since 1998.
+
+[Komodo Edit](http://komodoide.com/komodo-edit/)
+
+ * Komodo Edit is the free and Open-Source counterpart of Komodo IDE.
+
+[Komodo IDE](http://komodoide.com/) <span class="label label-danger"><small>Non-free</small></span>
+
+ * Cross-Platform IDE for all your major languages, including Python, PHP, Go, Perl, Tcl, Ruby, NodeJS, HTML, CSS, JavaScript and more.
 
 [NetBeans](https://netbeans.org/)
 
@@ -37,3 +57,7 @@
 [VIM](http://www.vim.org)
 
  * Vim is an advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set. VIM can be extended with a couple of different extensions that makes it a very capable and productive PHP IDE.
+
+[Zend Studio](http://www.zend.com/en/products/studio) <span class="label label-danger"><small>Non-free</small></span>
+
+ * The next-generation PHP IDE designed to create high quality PHP apps while boosting developers’ productivity. It is the only PHP IDE that combines mobile development with PHP and includes a sample mobile application with source code.
